@@ -1,6 +1,10 @@
 body {
-  background-color:blue;
+  background-color:peachpuff;
   
+}
+p {
+  font-size: 5vw;
+  font-family: Arial, Helvetica, sans-serif ;
 }
 
 img {
@@ -10,7 +14,7 @@ img {
 
 h1 {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 12pt;
+  font-size: 10vw;
 }
 
 #container {
@@ -23,9 +27,15 @@ h1 {
 
 button {
   margin-top: 30px;
+  padding: 20px 25px;
+  margin: 30px auto 0;
+  border: 1px solide #2e1263;
+  font-size: 20pt;
+
 }
 
 button:hover{
   transition: 3s;
   background-color: brown;
+  text-decoration: dotted;
 }
