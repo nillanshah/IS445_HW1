@@ -27,11 +27,17 @@ h1 {
 }
 
 button {
+  margin: 30px atuo 0;
   padding: 20px 25px;
-  margin: 30px;
+  background-color: #f69680;
+  color: #2e1263;
+  font-size: 14px;
+  text-align: center;
   border: 1px solide #2e1263;
-  font-size: 20pt;
-
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 4px;
+  outline: none;
 }
 
 button:hover{
