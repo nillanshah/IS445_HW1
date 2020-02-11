@@ -5,6 +5,7 @@ body {
 p {
   font-size: 5vw;
   font-family: Arial, Helvetica, sans-serif ;
+  
 }
 
 img {
@@ -27,7 +28,7 @@ h1 {
 
 button {
   padding: 20px 25px;
-  margin: 30px auto 0;
+  margin: 30px;
   border: 1px solide #2e1263;
   font-size: 20pt;
 
